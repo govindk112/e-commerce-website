@@ -9,7 +9,7 @@
 - 🔋 [Features](#features)
 - 🚀 [Quick Start](#quick-start)
 
-#introduction# 🤖 Introduction
+## 🤖 Introduction
 MyEcommerceApp is a dynamic and responsive eCommerce platform designed to provide a seamless shopping experience. With a robust product management system, this application ensures easy browsing, purchasing, and managing of products. Built with a modern tech stack, it offers both developers and users a smooth and engaging experience.
 
 ## ⚙️ Tech Stack
